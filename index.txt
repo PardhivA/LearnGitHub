@@ -2,4 +2,4 @@ hello world
 say hello to git.
 We have made a new branch just now.
 I've created a new branch called "EditingText".
-This change is not reflected in master branch unless I merge this new branch with the master branch.
+This change is not reflected in the master branch unless I merge this new branch with the master branch.
